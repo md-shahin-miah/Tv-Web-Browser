@@ -1,5 +1,5 @@
 <h1 align="center">
-  <p>VitaBrowser</p>
+  <p>TvWebBrowser</p>
   <img src="" width="150" height="150" style="border-radius:10%" alt=""> 
   </p>
 </h1>
