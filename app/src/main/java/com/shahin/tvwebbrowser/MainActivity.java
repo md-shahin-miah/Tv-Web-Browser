@@ -40,7 +40,6 @@ import java.util.Locale;
 import java.util.Timer;
 import java.util.TimerTask;
 
-//android:theme="@style/Theme.VitaBrowser"
 public class MainActivity extends AppCompatActivity {
     private WebView webView;
     private ImageView mousePointer;
